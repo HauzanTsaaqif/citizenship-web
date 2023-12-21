@@ -1,0 +1,15 @@
+{
+  "name": "nyoba-web",
+  "version": "1.0.0",
+  "description": "Sandbox nyoba aplikasi Augmented Reality kedalam website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hauzan Tsaaqif Mushaddaq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
